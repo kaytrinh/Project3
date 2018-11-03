@@ -106,5 +106,8 @@ body{
         &:hover{
           color: $hover-color1;
         }
+        &:active{
+          opacity: .5;
+        }
       }
   }
